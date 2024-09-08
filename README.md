@@ -1,0 +1,2 @@
+# clashconfig
+openclash
